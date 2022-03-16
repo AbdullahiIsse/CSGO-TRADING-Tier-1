@@ -5,7 +5,7 @@
 ![](SEPCSTier1/Architecture.png)
 
 - Presentation Tier (Tier 1)
-https://github.com/Lennart1997/SEPCSTier1
+https://github.com/AbdullahiIsse/CSGO-TRADING-Tier-1
 
 - Application Tier (Tier 2)
 https://github.com/AbdullahiIsse/SEP3-tier2 
