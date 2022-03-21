@@ -1,5 +1,5 @@
 # CSGO-TRADING 
-3-Tier distributed CSGO Trading system built with Blazor, C# ASP.NET Core + REST + GraphQL + Java Spring + Hot Chocolate + Strawberry Shake + Graph.ArgumentValidator + Blazored.Toast
+3-Tier distributed CSGO Trading system built with Blazor, C# ASP.NET Core + REST + GraphQL + Java Spring + Hot Chocolate + Strawberry Shake + Graph.ArgumentValidator + Blazored.Toast + Postgresql
 
 # 3-Tier Application
 ![](SEPCSTier1/Architecture.png)
@@ -13,7 +13,7 @@ https://github.com/AbdullahiIsse/SEP3-tier2
 - Data Tier (Tier 3)
 https://github.com/AbdullahiIsse/SEP3-Tier-3 
 
-# Video
+# - Video
 
 [![Watch the video](SEPCSTier1/Dashboard.png)](https://www.youtube.com/watch?v=sBIkhsBDrGU )
  
